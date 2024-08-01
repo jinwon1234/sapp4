@@ -99,11 +99,11 @@ class Sapp4ApplicationTests {
 		//답변 데이터를 통해 질문 데이터 찾기
 //
 
-
+//
 //		for (int i = 1; i <= 300; i++) {
 //			String subject = String.format("테스트 데이터입니다:[%03d]", i);
 //			String content = "내용무";
-//			this.questionService.create(subject, content);
+//			this.questionService.create(subject, content,null);
 //		}
 
 
